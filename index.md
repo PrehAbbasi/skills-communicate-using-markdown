@@ -5,3 +5,6 @@ This is an amazing opportunity to learn, connect and grow. I made a few changes 
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
